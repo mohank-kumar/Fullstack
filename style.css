@@ -36,7 +36,12 @@ a:hover{
     color: black;
 } */
 body{
-    background:lightblue;
+    background:#E2E2E2;
     padding:40px 40px 40px;
     
 }
+h3{
+    padding-top: 30px;
+}
+
+
